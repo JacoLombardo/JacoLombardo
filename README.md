@@ -30,7 +30,7 @@
 ---
 
 ### 🏆 Key 42 Projects
-* **ft_transcendence:** Full-stack SPA (TS/React/PostgreSQL) with real-time multiplayer Pong.
+* **ft_transcendence:** Full-stack SPA (TS/Nodejs/Fastify/SQLite) with real-time multiplayer Pong.
 * **Inception:** Complex System Administration using **Docker** and NGINX.
 * **Webserv:** A functional HTTP server written in **C++ 98** from scratch.
 * **Minishell:** A custom Unix shell (Bash replica) built in **C**.
